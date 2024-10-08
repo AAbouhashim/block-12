@@ -83,3 +83,19 @@ body{
   flex: 1;
   align-items: center;
 }
+
+input{
+  width: 50%;
+  border: 1px solid darkorange;
+  margin: 15px;
+}
+
+input [type=text]{
+  width: 50%;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+form {
+  text-align: center;
+}
